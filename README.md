@@ -4,6 +4,8 @@
 
 This project focuses on predicting customer churn for Expresso Telecommunications Company using machine learning. The solution includes data cleaning, exploratory data analysis, model training, and deployment via a Streamlit web application.
 
+## Data : https://drive.google.com/drive/folders/1QI8Kv_Lc3ribAHEvJtY76Bbd923LiPhl?usp=sharing
+
 ## Project Structure
 
 ```
